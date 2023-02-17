@@ -4,7 +4,7 @@
 
 💻 I have experience with web development technologies such as React, TypeScript, Node.js, Python, Php and more. I'm always looking for new opportunities to learn and grow as a developer.
 
-📫 Feel free to reach out to me if you have any questions or want to connect!
+:school: I am currently working on my thesis project in the area of "green coding," which explores methods for developing software that is more environmentally friendly and reduces energy consumption.
 
 
 <a href="https://github.com/emcofa/github-readme-stats">
